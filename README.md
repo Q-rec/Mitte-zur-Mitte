@@ -21,7 +21,7 @@ I decided to use a line which would always go from center A to center B just wit
 ![result1](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/02.png) ![result2](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/03.png) ![result3](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/04.png) ![result4](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/05.png)
 
 
-But the real Beauty of the analog algorithm lied in the plurality of the results, which often showed some cool pictures, like the one with the head. It wasn´t obtainable whit this kind of code.
+But the real Beauty of the analog algorithm lied in the plurality of the results, which often showed some cool pictures. It wasn´t obtainable whit this kind of code.
 
 The next big step was to change the code in a way, to create a real difference between the pictures.
 
