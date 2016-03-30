@@ -37,6 +37,7 @@ The colors has been changed to make the apperence more interesting
 ![result5](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/06.png) ![result6](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/07.png) ![result7](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/08.png) ![result8](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/09.png)
 
 >you can see the algorithm in action [here](Q-rec.github.io)
+
 ###How can you use it?
 
 An Idea to use this kind of algorithm would be a floor-projection at a art-exibiton which lead your way from one object to another. So every particiant of the exibition could get a different experience, by seeing the artwork in different order.
