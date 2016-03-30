@@ -4,7 +4,7 @@
 
 _At first, there was the task to create an analog algorithm. After creating the algorithm, ten people had to execute it._
 
-The Algorithm
+###The Algorithm
 
 >Start at a center of a side of your choice
 draw a line to another center of a side
@@ -24,7 +24,7 @@ But the real Beauty of the analog algorithm lied in the plurality of the results
 
 The next big step was to change the code in a way, to create a real difference between the pictures.
 
-The next digital Algorithm
+###The next digital Algorithm
 
 >create a grid
 start at a center, and create a line to the middle
