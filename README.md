@@ -40,4 +40,4 @@ How can you use it?
 An Idea to use this kind of algorithm would be a floor-projection at a art-exibiton which lead your way from one object to another. So every particiant of the exibition could get a different experience, by seeing the artwork in different order.
 It could look like this:
 
-![result](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/010.png)
+![result](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/10.png)
