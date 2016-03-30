@@ -1,0 +1,15 @@
+{
+  "author": "Bela Kurek",
+  "github": "Q-rec",
+  "contact":"bela.kurek(at)berlin.de",
+  "repos": [
+    "mitte-zur-mitte",
+    "iss-money"
+  ],
+  "algorithm": {
+    "title": "mitte-zur-mitte",
+    "image": "resultalgorithm.png",
+    "thumb": "resultalgorithmthumb.png",
+    "repo-url": "https://github.com/Q-rec/Mitte-zur-Mitte",
+    "abstract": "An analog algorithm turned digital"  }
+}
