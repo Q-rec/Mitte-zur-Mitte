@@ -11,7 +11,7 @@ draw a line to another center of a side
 you are not allowed to remove the pen from the paper while drawing
 pattern and shapes are welcome
 
-#####The idea was to connect all the works afterwards, to get one line, drawed by ten different people. This is the result:
+The idea was to connect all the works afterwards, to get one line, drawed by ten different people. This is the result:
 
 ![result](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/01.png)
 
