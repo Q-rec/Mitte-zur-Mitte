@@ -20,6 +20,7 @@ I decided to use a line which would always go from center A to center B just wit
 
 ![result1](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/02.png) ![result2](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/03.png) ![result3](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/04.png) ![result4](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/05.png)
 
+
 But the real Beauty of the analog algorithm lied in the plurality of the results, which often showed some cool pictures, like the one with the head. It wasn´t obtainable whit this kind of code.
 
 The next big step was to change the code in a way, to create a real difference between the pictures.
@@ -35,6 +36,7 @@ The colors has been changed to make the apperence more interesting
 
 ![result5](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/06.png) ![result6](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/07.png) ![result7](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/08.png) ![result8](https://github.com/Q-rec/Mitte-zur-Mitte/blob/master/images/09.png)
 
+>you can see the algorithm in action [here](Q-rec.github.io)
 ###How can you use it?
 
 An Idea to use this kind of algorithm would be a floor-projection at a art-exibiton which lead your way from one object to another. So every particiant of the exibition could get a different experience, by seeing the artwork in different order.
